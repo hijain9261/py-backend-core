@@ -1,0 +1,10 @@
+*.env
+dataBizz/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
