@@ -12,7 +12,7 @@ I built these files to experiment with data validation, concurrency, security, a
 * **10 & 12 APIs & Data:** Validation with Pydantic, calling the Gemini API safely with environment variables, and setting up a local JSON cache to save token usage.
 * **11 Pytest:** Writing test suites and using Mock patching so I don't hit live APIs during tests.
 
-**Read My Complete Backend Engineering [NOTES.md](/NOTES.md)**
+**Read My follow along notes [NOTES.md](/NOTES.md)**
 
 ## 💖 Credits
 
